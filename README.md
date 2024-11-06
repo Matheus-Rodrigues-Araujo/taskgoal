@@ -2,6 +2,10 @@
 
 Aplicação Fullstack para cadastro de tarefas
 
+# Funcionalidades
+- Criação, atualização, remoção e visualização das tarefas
+- Drag and Drop
+
 https://github.com/user-attachments/assets/37083101-a7c4-45f4-aa7d-9a3a59dd1646
 
 ## Tecnologias
