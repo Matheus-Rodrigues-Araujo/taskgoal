@@ -1,6 +1,7 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/Matheus-Rodrigues-Araujo/task-manager-api
+	
 [submodule "client"]
 	path = client
 	url = https://github.com/Matheus-Rodrigues-Araujo/task-manager-client
