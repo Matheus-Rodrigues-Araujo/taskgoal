@@ -1,6 +1,6 @@
-[submodule "task-manager-api"]
-	path = task-manager-api
+[submodule "server"]
+	path = server
 	url = https://github.com/Matheus-Rodrigues-Araujo/task-manager-api
-[submodule "task-manager-client"]
-	path = task-manager-client
+[submodule "client"]
+	path = client
 	url = https://github.com/Matheus-Rodrigues-Araujo/task-manager-client
