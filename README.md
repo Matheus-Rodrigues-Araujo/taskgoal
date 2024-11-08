@@ -8,7 +8,7 @@ Aplicação Fullstack para gerenciamento de tarefas com funcionalidades completa
 - Drag and Drop
 - Alternar entre tema claro e escuro
 
-https://github.com/user-attachments/assets/37083101-a7c4-45f4-aa7d-9a3a59dd1646
+https://github.com/user-attachments/assets/4930f2a5-1d3c-40df-8ea5-31b159e2f3fd
 
 ## Tecnologias Utilizadas
 
