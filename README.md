@@ -118,6 +118,32 @@ $ npm run dev
 
 Para facilitar o setup da aplicação, você pode usar Docker para rodar o backend, frontend e banco de dados em containers.
 
+**OBS:** Disponibilizei as imagens para baixar:
+
+
+### Executando a partir das imagens baixadas
+
+1. Baixe as imagens:
+```bash
+# Baixar a imagem do frontend
+docker pull matheusrodriguesaraujo/client-task-frontend:latest
+
+# Baixar a imagem do backend
+docker pull matheusrodriguesaraujo/server-taskgoal-api:latest
+```
+
+2. Execute:
+
+```bash
+# Executar a imagem do frontend
+docker run -p  3000:3000 matheusrodriguesaraujo/client-task-frontend:latest
+
+# Executar a imagem do backend
+docker run -p 8000:8000 matheusrodriguesaraujo/server-taskgoal-api:latest
+```
+
+### Executando a partir do Docker Compose
+
 ### Requisitos
 
 - Docker e Docker Compose instalados
