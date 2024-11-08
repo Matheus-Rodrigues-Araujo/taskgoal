@@ -7,8 +7,9 @@ Link do Deploy: https://taskgoalapp.vercel.app/
 # Funcionalidades
 
 - Criar, atualizar, remover e visualizar tarefas
-- Drag and Drop
+- Efeito Drag and Drop
 - Alternar entre tema claro e escuro
+- Local Storage para armazenamento de tema 
 
 https://github.com/user-attachments/assets/4930f2a5-1d3c-40df-8ea5-31b159e2f3fd
 
